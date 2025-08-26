@@ -1,4 +1,4 @@
 # New Project
 
 This project was created at local system.
-Created by Jayraj Gohil
+Created by Jayraj Gohil.
